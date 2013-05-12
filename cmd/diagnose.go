@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/shaoshing/train/interpreter"
+	"github.com/bmatsuo/train/interpreter"
 	"path"
 	"runtime"
 	"strings"
@@ -64,7 +64,7 @@ func diagnose() bool {
 	if allGood {
 		fmt.Println("-- Great, your environment seems perfect for Train.")
 	} else {
-		fmt.Println("-- (Please create an issue at github.com/shaoshing/train/issues if you need help)")
+		fmt.Println("-- (Please create an issue at github.com/bmatsuo/train/issues if you need help)")
 	}
 
 	return allGood

@@ -1,7 +1,7 @@
 package train
 
 import (
-	"github.com/shaoshing/gotest"
+	"github.com/bmatsuo/gotest"
 	"os"
 	"path/filepath"
 	"strconv"

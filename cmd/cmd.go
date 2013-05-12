@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
-	"github.com/shaoshing/train"
+	"github.com/bmatsuo/train"
 	"os/exec"
 )
 

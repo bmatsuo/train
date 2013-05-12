@@ -1,7 +1,7 @@
 package interpreter
 
 import (
-	"github.com/shaoshing/gotest"
+	"github.com/bmatsuo/gotest"
 	"testing"
 	"time"
 )

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/shaoshing/gotest"
-	"github.com/shaoshing/train"
+	"github.com/bmatsuo/gotest"
+	"github.com/bmatsuo/train"
 	"io/ioutil"
 	"testing"
 )

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/shaoshing/gotest"
+	"github.com/bmatsuo/gotest"
 	"testing"
 )
 
